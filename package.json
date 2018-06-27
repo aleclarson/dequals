@@ -1,0 +1,17 @@
+{
+  "name": "dequals",
+  "version": "0.0.1",
+  "main": "lib/dequals.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "coffee-build src -o lib",
+    "prepublishOnly": "prepv -i || true"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.3.0",
+    "testpass": "^0.9.3",
+    "wch-coffee": "*"
+  }
+}
