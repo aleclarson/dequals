@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "main": "lib/dequals.js",
   "types": "index.d.ts",
+  "repository": "aleclarson/dequals",
   "files": [
     "lib",
     "index.d.ts"
