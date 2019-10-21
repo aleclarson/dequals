@@ -1,4 +1,4 @@
-# dequals v0.0.1
+# dequals v1.0.0
 
 Deep equality test
 
