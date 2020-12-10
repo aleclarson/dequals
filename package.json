@@ -10,8 +10,8 @@
     "prepublishOnly": "prepv -i || true"
   },
   "devDependencies": {
-    "coffeescript": "^2.3.0",
-    "testpass": "^0.9.3",
+    "coffeescript": "2.5.1",
+    "testpass": "0.9.11",
     "wch-coffee": "*"
   }
 }
